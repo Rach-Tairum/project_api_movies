@@ -1,0 +1,34 @@
+2023-04-15 16:20:23 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 16:34:00 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 16:39:57 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 17:09:35 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 17:11:13 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 17:20:20 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 17:20:54 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 17:41:21 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 17:42:18 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 17:44:14 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "643b0" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 17:45:03 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "1234" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 17:48:58 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "1234" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 17:50:32 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 18:37:26 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 18:37:52 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 18:39:30 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 18:39:58 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 18:40:59 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 18:41:22 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:04:14 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 19:05:05 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:06:49 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 19:07:30 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:13:31 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:15:15 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:19:41 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "[String: '6643b0abe9e9d2ecf3916cf98']" (type String) at path "_id" for model "Movie"[39m
+2023-04-15 19:20:55 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "ObjectId(6643b0abe9e9d2ecf3916cf98)" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:34:29 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:35:31 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "6643b0abe9e9d2ecf3916cf98" (type string) at path "_id" for model "Movie"[39m
+2023-04-15 19:37:22 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "[String: '6643b0abe9e9d2ecf3916cf98']" (type String) at path "_id" for model "Movie"[39m
+2023-04-15 19:37:30 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 19:38:25 - [31merror[39m - [31mErro geral: Cast to ObjectId failed for value "{ ObjectId: '6643b0abe9e9d2ecf3916cf98' }" (type Object) at path "_id" for model "Movie"[39m
+2023-04-15 19:42:04 - [31merror[39m - [31mNão foi possível conectar[39m
+2023-04-15 19:43:28 - [31merror[39m - [31mNão foi possível conectar[39m
